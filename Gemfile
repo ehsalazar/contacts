@@ -44,4 +44,5 @@ group :development, :test do
 end
 
 gem 'ember-rails', '~> 0.18.0'
+gem 'ember-source', '~> 1.11.0'
 
