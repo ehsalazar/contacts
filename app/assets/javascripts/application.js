@@ -12,7 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require ./vendor/ember
+//= require ./vendor/ember-template-compiler
 //= require_tree ./lib
 //= require app/app
 //= require_tree ./app/models
