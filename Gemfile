@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'ember-rails', '~> 0.18.0'
+
